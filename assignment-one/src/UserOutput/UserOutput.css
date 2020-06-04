@@ -1,0 +1,12 @@
+.UserOutput {
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 60%;
+    text-align: left;
+    box-shadow: 0 4px 8px darkgray;
+}
+
+.UserOutput:hover {
+    box-shadow: 0 8px 16px darkgray;
+}
